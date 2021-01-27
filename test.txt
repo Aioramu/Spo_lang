@@ -1,0 +1,12 @@
+function triade(a,b){
+  d = 3+1+1;
+  f = a*d + b;
+  return f;
+}
+function sum(a,b){
+  d = a + b;
+  return d;
+}
+
+
+b = sum(1,2) + triade(1,2);
